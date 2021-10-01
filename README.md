@@ -4,3 +4,4 @@ All the solutions are in java programming language
 ->Binary Search
 ->Fibonacci Search
 ->Exponential Search
+->Jump Search
