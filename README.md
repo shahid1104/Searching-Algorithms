@@ -5,3 +5,4 @@ All the solutions are in java programming language
 ->Fibonacci Search
 ->Exponential Search
 ->Jump Search
+-> and many more to be added
